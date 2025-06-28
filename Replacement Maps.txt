@@ -1,2 +1,2 @@
 bloodgulch.map = fallout
-sidewinder.map = worthy
+putput.map = worthy
