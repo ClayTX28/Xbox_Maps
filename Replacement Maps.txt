@@ -1,4 +1,2 @@
 bloodgulch.map = fallout
 putput.map = worthy
-Wizard.map - Rock Bottom
-Ratrace.map = Birdhouse
