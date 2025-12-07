@@ -1,2 +1,3 @@
 bloodgulch.map = fallout
 putput.map = worthy
+madhouse.map = whiskey
